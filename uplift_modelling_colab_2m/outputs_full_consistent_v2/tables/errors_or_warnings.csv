@@ -1,0 +1,5 @@
+warning
+Có 6 nhóm lớn lệch treatment rate quá 0.01 so với 0.85; xem selection_balance_check.csv.
+CausalML 0.17.0: phiên bản đang dùng không hỗ trợ ước lượng trung thực (honesty).
+"Rừng nhân quả dùng n_jobs=-1; huấn luyện trên 200,000 quan sát."
+"Rừng nhân quả sử dụng mẫu con phân tầng, khác quy mô huấn luyện của các mô hình hiệu ứng tăng thêm còn lại."
